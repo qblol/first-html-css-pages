@@ -1,0 +1,79 @@
+body {
+  background-color: darkorange;
+  padding: 0px;
+  margin: 0px;
+  background-image: url("http://3.bp.blogspot.com/_m_XWwB73yT4/THhptOm01WI/AAAAAAAACBY/oO04L0NPlGc/s1600/Jeep_Wrangler_2011_car_pictures-05.jpg");
+  background-attachment: fixed;
+}
+
+.header {
+  background-color: yellow;
+  color: red;
+  text-align: center;
+  font-family: Arial;
+  text-transform: uppercase;
+  border-style: dashed;
+  border-color: black;
+  border-width: 8px;
+}
+
+h1 {
+  letter-spacing: 0.25em;
+}
+
+h2 {
+  font-style: italic;
+}
+
+img {
+  border-style: solid;
+  border-color: black;
+  border-width: thin;
+  border-radius: 210px;
+  width: 30%;
+  height: 30%;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+.body {
+  background-color: white;
+  font-family: serif;
+  border-style: solid;
+  margin: 58px;
+  padding: 48px;
+}
+
+p {
+  font-weight: bold;
+}
+
+.comment {
+  background-color: #FAEBD7;
+  font-family: Courier;
+  color: #B32528;
+  padding: 30px;
+  border-left-style: solid;
+  border-color: black;
+  border-radius: 71px 0px 0px 71px;
+  border-width: 15px;
+  float: right;
+  background: -webkit-linear-gradient(yellow, lime);
+}
+
+h3 {
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+.table-red {
+  color: red;
+  text-align: center;
+  font-style: normal;
+}
+
+.body-image {
+  text-align: center;
+}
