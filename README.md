@@ -56,3 +56,7 @@ Karena basic pendidikan gw dari Geodesi dan Geomatika, yang berarti sehari-hari 
 Hmmm, developer idola ya? Karena gw baru masuk di dunia IT jadi belum tau banyak juga tentang developer-developer handal di Dunia. Jadi developer idola gw untuk saat ini adalah temen yang ngajarin gw coding dulu, Cheppy Sofyan.
 Doi sekarang kerja sebagai Front End Developer, dan gw selalu suka design-design web buatan doi.
 Segitu dulu aja, kalau ada yang mau kenal lebih lanjut bisa liat fb gw aja ya di https://web.facebook.com/qblol. Thanks!
+
+## Future Plans
+
+Creating some artsy and cool maps :)
