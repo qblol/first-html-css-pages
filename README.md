@@ -4,6 +4,33 @@
 Hacktiv8 Course Phase 0
 
 ## Used Tags & Syntaxes
+### HTML Tags
+* <!DOCTYPE html>
+* <html>
+* <head>
+* <title>
+* <link>
+* <body>
+* <div>
+* <h1>
+* <h2>
+* <img>
+* <p>
+* <ol>
+* <li>
+* <ul>
+* <table>
+* <tr>
+* <th>
+* <td>
+* <h3>
+* <form>
+* <input>
+* <select
+* <option>
+* <textarea>
+
+### CSS Syntaxes
 * color
 * font-size
 * font-family
