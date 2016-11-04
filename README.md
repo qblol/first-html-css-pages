@@ -7,29 +7,29 @@ Hacktiv8 Course Phase 0
 
 ### HTML Tags
 
-* <html>
-* <head>
-* <title>
-* <link>
-* <body>
-* <div>
-* <h1>
-* <h2>
-* <img>
-* <p>
-* <ol>
-* <li>
-* <ul>
-* <table>
-* <tr>
-* <th>
-* <td>
-* <h3>
-* <form>
-* <input>
-* <select
-* <option>
-* <textarea>
+* html
+* head
+* title
+* link
+* body
+* div
+* h1
+* h2
+* img
+* p
+* ol
+* li
+* ul
+* table
+* tr
+* th
+* td
+* h3
+* form
+* input
+* select
+* option
+* textarea
 
 ### CSS Syntaxes
 
