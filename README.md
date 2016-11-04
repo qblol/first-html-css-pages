@@ -4,7 +4,21 @@
 Hacktiv8 Course Phase 0
 
 ## Used Tags & Syntaxes
-Tes
+* color
+* font-size
+* font-family
+* background-color
+* line-height
+* word-spacing
+* font-weight
+* font-style
+* text-transform
+* text-align
+* background
+* background-image
+* background-size
+* background-attachment
+* -webkit-linear-gradient
 
 ## About Me
 Halo semua, kenalin gw Iqbal. Gw bergabung di Bootcamp Hacktiv8 ini karena ternyata passion gw ada di coding. Selama ini gw cuma belajar otodidak, dan learning by doing di tempat kerja. 
